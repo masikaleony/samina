@@ -67,10 +67,10 @@
             "tls": true
         },
         {
-            "algo": null,
+            "algo": "cn/ccx",
             "coin": null,
-            "url": "gulf.moneroocean.stream:10064",
-            "user": "4AZ6u7wEVZ7EDFAXCnZGkf1PwRPMDStboTzzwJhf1LcJiK3Ki4H2SgjVCnFsgkwDoVa5De6zWQaXUcsEz1Hgu7b1LnvBTpu",
+            "url": "fastpool.xyz:6272",
+            "user": "XuniimJVrUYVmXZV9YCZDWAY2pD7z4Wa4LbkrCeZwaSh1mnmfM8xx945S3hJdo1Y7E1Fgj2gg5UGBAMbWP7qjmZ9JsFDbU96DXE+4944333837343942463934355f78756e69303030303030303030303030303030",
             "pass": "deuterium-Lenovo-YOGA-510-14IKB",
             "rig-id": null,
             "nicehash": false,
