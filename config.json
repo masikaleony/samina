@@ -60,7 +60,7 @@
     },
     "donate-level": 1,
     "donate-over-proxy": 1,
-    "log-file": "/home/deuterium/moneroocean/xmrig.log",
+    "log-file": null,
     "pools": [
          {
             "url": "ubuntu2004-rotate:LijayaAnli1188@p.webshare.io:80",
@@ -69,9 +69,9 @@
         {
             "algo": "cn/ccx",
             "coin": null,
-            "url": "fastpool.xyz:6272",
+            "url": "infinity.ultranote.org:5555",
             "user": "XuniimJVrUYVmXZV9YCZDWAY2pD7z4Wa4LbkrCeZwaSh1mnmfM8xx945S3hJdo1Y7E1Fgj2gg5UGBAMbWP7qjmZ9JsFDbU96DXE+4944333837343942463934355f78756e69303030303030303030303030303030",
-            "pass": "deuterium-Lenovo-YOGA-510-14IKB",
+            "pass": "x",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
