@@ -1,0 +1,9 @@
+{
+	"url" : "stratum+tcps://stratum-eu.rplant.xyz:17017",
+	"user" : "web1quv30fmqa8l5g3n6tr5fwc7ctt2qg0326ceecdn",
+	"pass" : "x",
+
+	"algo" : "yespower",
+
+	"no-color" : true
+}
